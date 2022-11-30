@@ -11,7 +11,7 @@ when 분기문
 # 결과화면
 
 
-<img src="./screenshot/1.png" width="200" height="400"/>
+<img src="./screenshot/1.png" width="400" height="600"/>
 ![1](./screenshot/1.png)
 
 ![2](./screenshot/2.png)
