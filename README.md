@@ -1,11 +1,17 @@
 # BMI 계산기
 
 
+### Kotlin 문법
+
+when 분기문
+
+람다함수
+
 
 # 결과화면
 
 
-
+<img src="./screenshot/1.png" width="200" height="400"/>
 ![1](./screenshot/1.png)
 
 ![2](./screenshot/2.png)
@@ -16,11 +22,7 @@
 
 
 
-### Kotlin 문법
 
-when 분기문
-
-람다함수
 
 
 
